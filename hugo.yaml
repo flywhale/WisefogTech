@@ -28,7 +28,7 @@ params:
   # preloader: false
   navbarlogo:
   # Logo (from static/images/logos/___)
-    image: logos/fresh.svg
+    image: logos/wisefog.svg
     link: /
     # Default width/height. Uncomment if you need to change
     # width: 112
@@ -72,9 +72,7 @@ params:
       url: /
     - title: Dropdown item
       url: /
-    - title: Dropdown item
-      url: /
-  - title: Log in
+  - title: About Us
     url: /
   - title: Sign up
     url: /
