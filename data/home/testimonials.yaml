@@ -6,21 +6,24 @@ content:
 
   featured:
     image: "images/testimonials-awards.png"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-    client: "Anonymous Customer"
+    text: "Our new website is amazing! The team at this company did an outstanding job of creating a design that perfectly matched our brand and exceeded our expectations. We couldn't be happier with the results."
+    client: "Sarah Johnson, CEO of XYZ Corp"
 
   list:
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "The digital marketing services provided by this company have been instrumental in increasing our online visibility and driving more traffic to our website. Their expertise and attention to detail have made a real difference for our business."
+      client: "John Smith, Marketing Director at ABC Company"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "Thanks to this company, we now have a beautiful e-commerce website that is easy to use and optimized for conversions. They took the time to understand our needs and delivered a solution that has helped us grow our business."
+      client: "Emily Davis, Owner of E-commerce store"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "The team at this company was amazing to work with. They listened to our ideas and provided valuable feedback, resulting in a website that is both visually stunning and functional. We highly recommend their services."
+      client: "Mike Rodriguez, Founder of Startup"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "We were blown away by the quality of the web design services provided by this company. They created a website that is easy to navigate and reflects our brand perfectly. We couldn't be happier with the results."
+      client: "Lisa Chen, Director of HR at Tech Company"
 
-    - text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consectetur et pretium nunc, quis euismod et. Volutpat suspendisse sed in blandit condimentum. Sagittis nullam nec mauris, feugiat hendrerit aliquam cras. Dolor tortor gravida lobortis in ultricies enim vulputate non. Neque nibh donec quam lectus."
-      client: "Anonymous Customer"
+    - text: "We were on a tight budget and weren't sure if we could afford a professional website. This company worked with us to create a solution that met our needs and our budget. We are thrilled with the results and highly recommend their services."
+      client: "Tom Jones, Small Business Owner"
+
+    - text: "The digital marketing services provided by this company have helped us to reach a wider audience and increase our online sales. Their expertise in SEO and PPC advertising has made a real difference for our business."
+      client: "Mary Thompson, Marketing Manager at Manufacturing Company"

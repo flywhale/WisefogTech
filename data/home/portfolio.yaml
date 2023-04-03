@@ -4,8 +4,8 @@ id: "portfolio"
 content:
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+    title: "Web design and development"
+    text: "We offer custom website design and development services to businesses of all sizes. Our team of experts will work with you to understand your brand and create a website that is tailored to your specific needs, with a focus on user experience and functionality."
 
     buttons: 
       - label: "See live"
@@ -16,9 +16,9 @@ content:
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
+    title: "Digital marketing"
+    text: "We help businesses increase their online visibility and drive traffic to their website through digital marketing services such as SEO, PPC advertising, social media marketing, email marketing, and more. Our team will develop a comprehensive strategy that is tailored to your business goals and budget."
+ 
     buttons: 
       - label: "See live"
         url: "#"
@@ -28,9 +28,9 @@ content:
 
   - image: "images/portfolio-ecommerce.png"
     pretitle: "Portfolio Service"
-    title: "We developed an eCommerce website"
-    text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
-
+    title: "E-commerce solutions"
+    text: "We specialize in creating custom e-commerce websites for businesses that want to sell their products or services online. Our team will work with you to understand your needs and develop a website that is user-friendly, secure, and optimized for conversions. We also offer ongoing support and maintenance services to ensure that your website continues to function smoothly."
+ 
     buttons: 
       - label: "See live"
         url: "#"

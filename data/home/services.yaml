@@ -3,25 +3,25 @@ id: "services"
 
 content:
   title: "Our main services"
-  text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nec quam nibh elit pellentesque velit netus suspendisse. Sed enim, pretium, montes, in ut dolor urna."
+  text: "main services offered by our company:"
   cards:
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Web design and development"
+      text: "We offer custom website design and development services to businesses of all sizes. Our team of experts will work with you to understand your brand and create a website that is tailored to your specific needs, with a focus on user experience and functionality."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "Digital marketing"
+      text: "We help businesses increase their online visibility and drive traffic to their website through digital marketing services such as SEO, PPC advertising, social media marketing, email marketing, and more. Our team will develop a comprehensive strategy that is tailored to your business goals and budget."
       button:
         label: "Learn more"
         url: "#"
 
     - image: "images/services-web-development.png"
-      title: "Web development"
-      text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Molestie in malesuada eget fames purus ligula luctus tellus. Habitant condimentum sit gravida praesent. "
+      title: "E-commerce solutions"
+      text: "We specialize in creating custom e-commerce websites for businesses that want to sell their products or services online. Our team will work with you to understand your needs and develop a website that is user-friendly, secure, and optimized for conversions. We will ensure that your website continues to function smoothly."
       button:
         label: "Learn more"
         url: "#"
