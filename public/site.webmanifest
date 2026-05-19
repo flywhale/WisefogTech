@@ -1,6 +1,6 @@
 {
-  "name": "Wisefog Inc.",
-  "short_name": "Wisefog Inc.",
+  "name": "{{ site.Title }}",
+  "short_name": "{{ site.Title }}",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
