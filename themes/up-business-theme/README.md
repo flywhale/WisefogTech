@@ -1,34 +1,69 @@
-# Hugo Up Business Theme
+# Hugo Up Business
 
-Up Business is a clean and modern landing page, inspired on light illustrations
-with a modern look, that can be used for companies or to showcase a product.
+![Screenshot](https://github.com/writeonlycode/hugo-up-business/blob/main/images/screenshot.png?raw=true)
 
-![Screenshot](https://gitlab.com/writeonlyhugo/up-business-theme/-/raw/f4e11eb377d9f7f1d8305d278538f8af05d365e5/images/screenshot.png)
+**Hugo Up Business** is a clean and modern landing page built with [Hugo](https://gohugo.io/), designed to highlight businesses, products, or services with clarity and style. Inspired by light illustrations and a modern aesthetic, it offers a minimal yet professional interface for company websites or promotional pages.
 
 ## Live Demo
 
-See [here](https://writeonlyhugo.gitlab.io/up-business-demo/).
+👉 [Visit the Live Demo](https://writeonlycode.github.io/hugo-up-business/)
 
-## Quick Start
+## Getting Started
 
-If you are creating a new website, the quickest way to get up and running is to
-clone the demo website.
+### Prerequisites
+
+Before you begin, make sure you have the following installed:
+
+* [Hugo](https://gohugo.io/getting-started/installing/)
+* [Go](https://go.dev/doc/install)
+* [Node.js](https://nodejs.org/)
+* npm (comes with Node.js)
+
+### Installation
+
+1. Clone the repository using the `demo` branch:
 
 ```bash
-git clone https://gitlab.com/writeonlyhugo/up-business-demo.git
+git clone --branch demo https://github.com/writeonlycode/hugo-up-business.git my-new-site
+cd my-new-site
 ```
 
-Alternatively, you can clone just the theme to your theme folder:
+2. Install the dependencies:
 
 ```bash
-git clone https://gitlab.com/writeonlyhugo/up-business-theme.git themes/up-business-theme
+npm install
 ```
 
-The folder `hugoBasicExample` contains a working version of a website with the
-theme. It includes: the configuration file `config.yaml`, the content folder
-`content` and the `data` folder. It's a good idea to copy this over to the
-project folder to get an initial version of the website up and running.
+3. Start the local development server:
 
-## License 
+```bash
+hugo server
+```
 
-Up Business is licensed under the MIT license.
+Your site will be running at `http://localhost:1313`. Any changes you make will be hot-reloaded in the browser.
+
+### Editing Content
+
+* All content is stored in the `content/` and `data/` directories.
+* To update configuration settings, **modify only the files inside the `config/` folder**, which uses Hugo’s [configuration directory](https://gohugo.io/getting-started/configuration/#configuration-directory) structure.
+* YAML files inside `data/` are used for structured sections like the hero, features, and pricing.
+
+### Deployment
+
+To deploy your site, build the static files:
+
+```bash
+hugo
+```
+
+This will generate the `public/` directory, which contains the complete static site. Upload its contents to your hosting provider or connect with a platform like [Netlify](https://www.netlify.com/) or [Vercel](https://vercel.com/).
+
+## Built With
+
+* [Hugo](https://gohugo.io/) – A fast and flexible static site generator.
+* [Tailwind CSS](https://tailwindcss.com/) – A utility-first CSS framework for rapid UI development.
+* [Light illustrations by Abell Vo](https://www.figma.com/community/file/1022163547182520272) – The design inspiration behind the theme.
+
+## License
+
+This project is licensed under the MIT License – see the [LICENSE](https://github.com/writeonlycode/hugo-up-business/blob/main/LICENSE) file for details.
